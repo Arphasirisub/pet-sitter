@@ -1,9 +1,11 @@
-# React + Vite
+# Description
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Pet Sitter is a created a dynamic website catering to busy pet owners, offering pet care resources and services. This README file provides an overview of the project, its features, and how to get started with it.
 
-Currently, two official plugins are available:
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# petSitter
+To install Pet Sitter, follow these steps: 
+1. Clone the repository: `git clone git@github.com:Arphasirisub/pet-sitter.git` 
+2. Navigate to the project directory: `cd [project directory]`  
+3. Install dependencies: `npm install`
+4. See my website by `cd client` and `npm run dev`
