@@ -1,6 +1,6 @@
 # Description
 
-Pet Sitter is a created a dynamic website catering to busy pet owners, offering pet care resources and services. This README file provides an overview of the project, its features, and how to get started with it.
+Pet Sitter is a created a dynamic website catering to busy pet owners, offering pet care resources and services. This README file provides an overview of the project and how to get started with it.
 
 ## Installation
 
