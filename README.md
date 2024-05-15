@@ -2,6 +2,24 @@
 
 Pet Sitter is a created a dynamic website catering to busy pet owners, offering pet care resources and services. This README file provides an overview of the project and how to get started with it.
 
+# Feature
+
+| Feature | Page/Detail |
+|--|--|
+| Authentication |  Register |
+||Login|
+||Logout|
+|Landing Page|See Website Detail|
+|Booking|Find a Pet Sitter|
+||See a Pet Sitter detail|
+||Booking|
+|Owner Management|Manage Owner Profile|
+||Manage Owner's Pet|
+||See Booking history|
+|Sitter Management|Manage Sitter Profile|
+||Manage Booking|
+||See Sitter Income|
+
 ## Installation
 
 To install Pet Sitter, follow these steps: 
